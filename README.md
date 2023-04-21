@@ -7,7 +7,8 @@
 
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noctkun&label=Profile%20views&color=0e75b6&style=flat" alt="noctkun" /> </p>
+<br>
 
 
 	
@@ -21,7 +22,6 @@
 - Tensorflow and Pytorch Dev
 - Currently pursuing Computer Science and Engineering at VIT Chennai
 - Personal website [link](https://noctkun.github.io/webpage/)
-- I’m currently open for an Intern or a new job opportunity Resume [link](https://read.cv/noctkun)
 
 <br><br>
 
