@@ -19,7 +19,7 @@
 - A Machine Learning Enthusiast
 - Tensorflow and Pytorch Dev
 - Currently pursuing Computer Science and Engineering at VIT Chennai
-- Personal website [link](https://noctkun.github.io/webpage/)
+- Personal website [link](https://bento.me/ganeshkumar)
 
 <br><br>
 
