@@ -11,3 +11,4 @@
 <br>
 
 <h3 align="left"><i>My projects are pinned below, for your reference</i></h3>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejdycHk1anQ3Z2IycWxlemdjaHcxMWo4Y25tZXQwa2xkdXQ1cmZiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZuzzRTWcCCZt0aI7D/giphy.gif" width="35">
